@@ -2,18 +2,21 @@
 
 # Zakaria Karbi
 
-### Mathematics · Data Science · Machine Learning
+### Statistics · Econometrics · Data Science · Machine Learning
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Statistics+%26+Econometrics+Student;Exploring+Data+Science+%26+AI;Turning+Data+into+Insights;Learning%2C+Building%2C+Improving" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Fourth-year+Student+at+NHSM+Algeria;Statistics+%26+Econometrics+%7C+Actuarial+Sciences;Turning+Data+into+Insights;Learning%2C+Building%2C+Improving" alt="Animated typing introduction" />
 </a>
 
 <p>
+  <a href="https://www.linkedin.com/in/zakaria-karbi-0bb011320">
+    <img src="https://img.shields.io/badge/LinkedIn-Zakaria%20Karbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
   <a href="https://github.com/zakariakarbi">
     <img src="https://img.shields.io/badge/GitHub-zakariakarbi-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="https://github.com/zakariakarbi/premier-league-prediction">
-    <img src="https://img.shields.io/badge/Featured%20Project-Premier%20League%20Prediction-2ea44f?style=for-the-badge&logo=github" alt="Featured project" />
+    <img src="https://img.shields.io/badge/Featured%20Project-Premier%20League%20Prediction-2ea44f?style=for-the-badge&logo=jupyter&logoColor=white" alt="Featured project" />
   </a>
 </p>
 
@@ -23,31 +26,32 @@
 
 ## 👋 About Me
 
-I'm **Zakaria Karbi**, a fourth-year student at the **National Higher School of Mathematics (NHSM), Algeria**, specializing in **Statistics, Econometrics, and Actuarial Sciences**.
+Hi, I'm **Zakaria Karbi**, a fourth-year student at the **National Higher School of Mathematics (NHSM), Algeria**, specializing in **Statistics, Econometrics, and Actuarial Sciences**.
 
-I'm interested in using mathematics, statistics, and programming to understand data and build practical machine-learning solutions. I'm currently strengthening my foundations in data science and AI through coursework, personal projects, and continuous practice.
+I use mathematics, statistics, and programming to understand data and build practical machine-learning solutions. I am strengthening my foundations in data science and AI through coursework, personal projects, and consistent practice.
 
-- 🎓 **Focus:** Statistics, econometrics, and actuarial sciences
-- 📊 **Interests:** Data science, statistical modelling, and machine learning
-- 🤖 **Exploring:** AI engineering and applied machine learning
-- ⚽ **Personal interest:** Football analytics
-- 🌱 **Current mindset:** Learn the fundamentals, build projects, and improve through feedback
+| | |
+|---|---|
+| 🎓 **Education** | National Higher School of Mathematics (NHSM), Algeria, 4th year |
+| 🧮 **Specialization** | Statistics, Econometrics, Actuarial Sciences |
+| 📊 **Interests** | Data science, statistical modelling, machine learning |
+| 🤖 **Exploring** | AI engineering and applied machine learning |
+| ⚽ **Personal interest** | Football analytics |
+| 🌱 **Mindset** | Learn the fundamentals, build projects, improve through feedback |
 
 ## 🧰 Skills & Technologies
 
-*Tools and languages I use or am learning:*
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,r,latex,git,github,vscode&perline=7" alt="Python, C, R, LaTeX, Git, GitHub and VS Code icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,r,latex,git,github,vscode,jupyter&perline=8" alt="Python, C, R, LaTeX, Git, GitHub, VS Code and Jupyter icons" />
 </p>
 
-| Area | Current focus |
+| Area | Focus |
 |---|---|
-| Programming | Python, C, R |
-| Data work | Data cleaning, exploratory analysis, and visualization |
-| Mathematics | Statistics, probability, econometrics, and optimization |
-| Machine learning | Learning model development and evaluation |
-| Tools | Git, GitHub, VS Code, Jupyter Notebook, LaTeX |
+| 💻 **Programming** | Python, C, R |
+| 🧹 **Data work** | Data cleaning, exploratory analysis, visualization |
+| 📐 **Mathematics** | Statistics, probability, econometrics, optimization |
+| 🤖 **Machine learning** | Model development and evaluation |
+| 🛠️ **Tools** | Git, GitHub, VS Code, Jupyter Notebook, LaTeX |
 
 > This list reflects my learning and project interests; proficiency varies by tool.
 
@@ -55,24 +59,34 @@ I'm interested in using mathematics, statistics, and programming to understand d
 
 ### ⚽ Premier League Match Prediction
 
-A machine-learning exploration of historical English Premier League match data, developed in a Jupyter Notebook.
+A machine-learning project built in a Jupyter Notebook that explores historical English Premier League data to predict match outcomes.
 
-- Explore historical match data and patterns.
-- Prepare data for modelling.
-- Experiment with predicting match outcomes.
-- Review and improve the modelling workflow.
+- 🔍 Explore historical match data and patterns
+- 🧼 Clean and prepare data for modelling
+- 🧪 Experiment with models to predict match results
+- 📈 Evaluate and improve the modelling workflow
 
-**Repository:** [premier-league-prediction](https://github.com/zakariakarbi/premier-league-prediction)
+**Tech:** Python · Jupyter Notebook · Machine Learning
+
+🔗 **Repository:** [premier-league-prediction](https://github.com/zakariakarbi/premier-league-prediction)
 
 > Predictions are estimates for educational and analytical purposes, not guarantees of match results.
 
-## 🤝 Activities & Collaboration
+## 🤝 Activities & Leadership
 
-- **Eureka Club** — HR member.
-- **Mathaurens Hackathon** — Organizer.
-- **8-Squared Chess Club** — Chess-club initiative at NHSM.
+| Role | Organization |
+|---|---|
+| 👥 **HR Member** | Eureka Club |
+| 🏆 **Organizer** | Mathaurens Hackathon |
+| ♟️ **Chess club initiative** | 8-Squared Chess Club, NHSM |
 
 I enjoy teamwork, problem-solving, and activities that bring students together around learning and technology.
+
+## 🎯 Currently
+
+- 📚 Deepening my knowledge of statistics, econometrics, and probability
+- 🤖 Building my skills in data science and machine learning
+- 🧪 Working on projects that apply theory to real data
 
 ## 📈 GitHub Overview
 
@@ -85,17 +99,20 @@ I enjoy teamwork, problem-solving, and activities that bring students together a
   <img src="https://streak-stats.demolab.com?user=zakariakarbi&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zakariakarbi&style=flat&color=blue" alt="Profile views" />
-</p>
-
 <sub>These statistics are generated by third-party services and may occasionally be unavailable or delayed.</sub>
 
-## 📫 Connect
+## 📫 Let's Connect
 
-- **GitHub:** [@zakariakarbi](https://github.com/zakariakarbi)
+I'm open to learning opportunities, collaborations, and conversations about data, statistics, and machine learning.
 
-*Add your LinkedIn profile and professional email here when you're ready to publish them.*
+<p>
+  <a href="https://www.linkedin.com/in/zakaria-karbi-0bb011320">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/zakariakarbi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -103,4 +120,6 @@ I enjoy teamwork, problem-solving, and activities that bring students together a
   <i>“Great things are done by a series of small things brought together.”</i>
   <br />
   <sub>Keep learning. Keep building. Keep improving.</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=zakariakarbi&style=flat&color=blue" alt="Profile views" />
 </div>
