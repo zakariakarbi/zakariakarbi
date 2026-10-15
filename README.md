@@ -1,22 +1,27 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Zakaria%20Karbi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Machine%20Learning%20%C2%B7%20Statistics%20%26%20Actuarial%20Sciences&descSize=17&descAlignY=60" width="100%" alt="Zakaria Karbi header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C3A5B,100:0077B6&height=230&section=header&text=ZAKARIA%20KARBI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=STATISTICS%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20ACTUARIAL%20SCIENCES&descSize=15&descAlignY=58&descColor=CAF0F8" width="100%" alt="Zakaria Karbi — Statistics, Machine Learning and Actuarial Sciences" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=Statistics+%26+Actuarial+Sciences+Engineering+Student;Deep+Learning+built+from+scratch+in+NumPy;Applied+Econometrics+with+original+survey+data;Seeking+international+research+in+AI%2FML+%26+risk+analytics" alt="Animated typing introduction" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&width=750&lines=Statistics+%26+Econometrics+Student;Building+Machine+Learning+Projects;Exploring+AI%2C+Risk+Analytics+%26+Data;Mathematics+Meets+Real-World+Problems" alt="Animated introduction" />
+
+<br/>
+
+<a href="https://github.com/zakariakarbi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/zakaria-karbi-0bb011320">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:zakaria.karbi@nhsm.edu.dz">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/zakaria-karbi-0bb011320">
-    <img src="https://img.shields.io/badge/LinkedIn-Zakaria%20Karbi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:zakaria.karbi@nhsm.edu.dz">
-    <img src="https://img.shields.io/badge/Email-zakaria.karbi%40nhsm.edu.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/zakariakarbi">
-    <img src="https://img.shields.io/badge/GitHub-zakariakarbi-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Data%20Science%20%26%20AI-0077B6?style=flat-square" alt="Focus: Data Science and AI" />
+<img src="https://img.shields.io/badge/BASED-Algeria-2A9D8F?style=flat-square" alt="Based in Algeria" />
 
 </div>
 
